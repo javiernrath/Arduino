@@ -1,0 +1,9 @@
+#include <RCSwitch.h>
+RCSwitch mySwitch = RCSwitch();
+byte inByte = 0;
+int incomingByte;
+int estado;
+
+ }
+ }
+ }
